@@ -1,5 +1,3 @@
-# Workathon
-
 ## 💡 Inspiration
 Grafo - γράφω (gráphō) means “I write” in Greek.
 Writing cover letters can be an incredibly tedious task. It requires a lot of time and effort to craft the perfect letter for each job you apply for and research the company’s culture and mission statement. After a while, it can become quite tiresome to write up yet another version of your resume with slight variations in order to make it stand out from other applicants.
