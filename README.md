@@ -8,4 +8,4 @@ However, writing cover letters is essential to land your dream job or even getti
 Grafo is powered by a generative pre-trained model of cohere-ai to generate the cover letters needed. Users will write their prompts as detailed as possible and the web app will create the response in the best way possible.
 
 
-### © 2023 Grafo. All rights reserved. 💻 Henok
+### © 2023 Grafo. 💻 Henok Ademtew
